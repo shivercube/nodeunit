@@ -1,0 +1,3 @@
+[submodule "deps/node-assert-extras"]
+	path = deps/node-assert-extras
+	url = git://github.com/shivercube/node-assert-extras.git
